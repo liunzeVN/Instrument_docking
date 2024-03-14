@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[10]正则表达式匹配.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/doc/content/[10]正则表达式匹配.md" />
+              <option name="frontendQuestionId" value="leetcode.cn10" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[10]正则表达式匹配.py" />
+              <option name="titleSlug" value="regular-expression-matching" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[11]盛最多水的容器.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/doc/content/[11]盛最多水的容器.md" />
+              <option name="frontendQuestionId" value="leetcode.cn11" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[11]盛最多水的容器.py" />
+              <option name="titleSlug" value="container-with-most-water" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[12]整数转罗马数字.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/doc/content/[12]整数转罗马数字.md" />
+              <option name="frontendQuestionId" value="leetcode.cn12" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[12]整数转罗马数字.py" />
+              <option name="titleSlug" value="integer-to-roman" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[13]罗马数字转整数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/doc/content/[13]罗马数字转整数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn13" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[13]罗马数字转整数.py" />
+              <option name="titleSlug" value="roman-to-integer" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[2236]判断根结点是否等于子结点之和.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/doc/content/[2236]判断根结点是否等于子结点之和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2236" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[2236]判断根结点是否等于子结点之和.py" />
+              <option name="titleSlug" value="root-equals-sum-of-children" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[2520]统计能整除数字的位数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/doc/content/[2520]统计能整除数字的位数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2520" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[2520]统计能整除数字的位数.py" />
+              <option name="titleSlug" value="count-the-digits-that-divide-a-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[4]寻找两个正序数组的中位数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/doc/content/[4]寻找两个正序数组的中位数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn4" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[4]寻找两个正序数组的中位数.py" />
+              <option name="titleSlug" value="median-of-two-sorted-arrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[5]最长回文子串.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/doc/content/[5]最长回文子串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn5" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[5]最长回文子串.py" />
+              <option name="titleSlug" value="longest-palindromic-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[6]N 字形变换.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/doc/content/[6]N 字形变换.md" />
+              <option name="frontendQuestionId" value="leetcode.cn6" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[6]N 字形变换.py" />
+              <option name="titleSlug" value="zigzag-conversion" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[7]整数反转.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/doc/content/[7]整数反转.md" />
+              <option name="frontendQuestionId" value="leetcode.cn7" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[7]整数反转.py" />
+              <option name="titleSlug" value="reverse-integer" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[8]字符串转换整数 (atoi).py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/doc/content/[8]字符串转换整数 (atoi).md" />
+              <option name="frontendQuestionId" value="leetcode.cn8" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[8]字符串转换整数 (atoi).py" />
+              <option name="titleSlug" value="string-to-integer-atoi" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[9]回文数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/doc/content/[9]回文数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn9" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../pycharm_leetcode_timu/leetcode/editor/cn/[9]回文数.py" />
+              <option name="titleSlug" value="palindrome-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
